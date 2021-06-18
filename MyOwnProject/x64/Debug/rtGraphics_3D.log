@@ -1,0 +1,4 @@
+﻿  rtGraphics_3D.cpp
+D:\MyOwnProject\rtGraphics_3D\rtGraphics_3D.cpp(283,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MyOwnProject\rtGraphics_3D\rtGraphics_3D.cpp(289,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  rtGraphics_3D.vcxproj -> D:\MyOwnProject\rtGraphics_3D\x64\Debug\rtGraphics_3D.exe
